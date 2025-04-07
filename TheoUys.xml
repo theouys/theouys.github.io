@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Image1" object_type="graphic"/>
+ <paragraph index="9" node_type="writer"> </paragraph>
+ <paragraph index="15" node_type="writer"> </paragraph>
+ <object index="21" name="Table1" object_type="table"/>
+ <paragraph index="29" node_type="writer" parent_index="21">Theo Uys</paragraph>
+ <paragraph index="38" node_type="writer" parent_index="21">WMS Implementation Consultant</paragraph>
+ <paragraph index="39" node_type="writer" parent_index="21">A seasoned supply chain professional with over 10 years of experience specializing in Manhattan WMOS implementations, configurations, and integrations. I'm passionate about optimizing warehouse operations and driving efficiency gains for clients across various industries.</paragraph>
+ <paragraph index="40" node_type="writer" parent_index="21"> My expertise spans from requirements gathering and system design to testing, post-implementation support. I'm a strong communicator and collaborator, always eager to tackle complex challenges and deliver impactful results.</paragraph>
+ <paragraph index="41" node_type="writer" parent_index="21">I also have a good relationship with other people in the same industry meaning I do not only bring my own expertise, but also have a solid network of expertise behind me.</paragraph>
+ <paragraph index="42" node_type="writer" parent_index="21">If you think your business can make use of my services, please do not hesitate to contact me. </paragraph>
+ <paragraph index="68" node_type="writer" parent_index="21">Cape Town</paragraph>
+ <paragraph index="69" node_type="writer" parent_index="21">South Africa</paragraph>
+ <paragraph index="96" node_type="writer" parent_index="21">+27 79 312 1412</paragraph>
+ <paragraph index="123" node_type="writer" parent_index="21">theouys@outlook.com</paragraph>
+ <paragraph index="150" node_type="writer" parent_index="21">theouys.github.io</paragraph>
+ <object name="Group 21" alt="" object_type="shape" description="gps icon"/>
+ <object name="Group 22" alt="" object_type="shape" description="phone icon"/>
+ <object name="Group 24" alt="" object_type="shape" description="email icon"/>
+ <object name="Group 2" alt="" object_type="shape" description=""/>
+ <object name="Group 2" alt="" object_type="shape" description=""/>
+ <object name="Group 23" alt="" object_type="shape" description="website icon"/>
+</indexing>
